@@ -12,6 +12,7 @@ template = "default.md"
 #ignore = [
 #	"!content/"
 #]
+ignore = ["README.md"]
 
 [format.markdown]
 
